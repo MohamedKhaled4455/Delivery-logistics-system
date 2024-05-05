@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Ky5xhSQnqzQOV09mq0OR9ehDbkozjXjIm9xUHKYonPg=",
+  "Hash": "dDzUe5xH2S17pIIBTC+DKrUo4DUraydXt/FkaJX17mM=",
   "Source": "Delivery logistics system",
   "BasePath": "_content/Delivery logistics system",
   "Mode": "Default",
@@ -131,25 +131,6 @@
       "OriginalItemSpec": "wwwroot\\img\\about.jpg"
     },
     {
-      "Identity": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\img\\carousel-1.jpg",
-      "SourceId": "Delivery logistics system",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\",
-      "BasePath": "_content/Delivery logistics system",
-      "RelativePath": "img/carousel-1.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\carousel-1.jpg"
-    },
-    {
       "Identity": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\img\\carousel-2.jpg",
       "SourceId": "Delivery logistics system",
       "SourceType": "Discovered",
@@ -167,6 +148,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\carousel-2.jpg"
+    },
+    {
+      "Identity": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\img\\FastDelivery.jpg",
+      "SourceId": "Delivery logistics system",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\",
+      "BasePath": "_content/Delivery logistics system",
+      "RelativePath": "img/FastDelivery.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\FastDelivery.jpg"
     },
     {
       "Identity": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\img\\feature.jpg",
