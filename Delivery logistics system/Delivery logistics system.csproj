@@ -7,4 +7,10 @@
     <RootNamespace>Delivery_logistics_system</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Pages\Admin\" />
+    <Folder Include="Pages\Customer\" />
+    <Folder Include="Pages\Driver\" />
+  </ItemGroup>
+
 </Project>
