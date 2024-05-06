@@ -8,18 +8,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Remove="Pages\Admin\**" />
-    <Compile Remove="Pages\Customer\**" />
-    <Compile Remove="Pages\Driver\**" />
-    <Content Remove="Pages\Admin\**" />
-    <Content Remove="Pages\Customer\**" />
-    <Content Remove="Pages\Driver\**" />
-    <EmbeddedResource Remove="Pages\Admin\**" />
-    <EmbeddedResource Remove="Pages\Customer\**" />
-    <EmbeddedResource Remove="Pages\Driver\**" />
-    <None Remove="Pages\Admin\**" />
-    <None Remove="Pages\Customer\**" />
-    <None Remove="Pages\Driver\**" />
+    <Folder Include="Pages\Customer\" />
+    <Folder Include="Pages\Admin\" />
+    <Folder Include="Pages\Driver\" />
   </ItemGroup>
 
 </Project>
