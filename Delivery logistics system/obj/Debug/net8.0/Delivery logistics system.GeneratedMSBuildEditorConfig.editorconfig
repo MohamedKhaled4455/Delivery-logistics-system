@@ -18,6 +18,18 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\Files\Signed in backup\Zweil city\Courses\2nd year - semester 2\CIE 206 - DataBase\project\Delivery-logistics-system\Delivery logistics system
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/Files/Signed in backup/Zweil city/Courses/2nd year - semester 2/CIE 206 - DataBase/project/Delivery-logistics-system/Delivery logistics system/Pages/AdminMainInterface.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5NYWluSW50ZXJmYWNlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Files/Signed in backup/Zweil city/Courses/2nd year - semester 2/CIE 206 - DataBase/project/Delivery-logistics-system/Delivery logistics system/Pages/CustomerMainInterface.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VzdG9tZXJNYWluSW50ZXJmYWNlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Files/Signed in backup/Zweil city/Courses/2nd year - semester 2/CIE 206 - DataBase/project/Delivery-logistics-system/Delivery logistics system/Pages/DriverMainInterface.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRHJpdmVyTWFpbkludGVyZmFjZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Files/Signed in backup/Zweil city/Courses/2nd year - semester 2/CIE 206 - DataBase/project/Delivery-logistics-system/Delivery logistics system/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
