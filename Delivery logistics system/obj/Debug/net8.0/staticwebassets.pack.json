@@ -9,6 +9,62 @@
       "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
     },
     {
+      "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\css\\bootstrap\\_media.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\_media.css"
+    },
+    {
+      "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\css\\bootstrap\\mixins\\_border-radius.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\mixins\\_border-radius.css"
+    },
+    {
+      "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\css\\bootstrap\\mixins\\_screen-reader.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\mixins\\_screen-reader.css"
+    },
+    {
+      "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\css\\bootstrap\\mixins\\_transition.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\mixins\\_transition.css"
+    },
+    {
+      "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\css\\bootstrap\\mixins\\_visibility.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\mixins\\_visibility.css"
+    },
+    {
+      "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\css\\bootstrap\\utilities\\_stretched-link.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\utilities\\_stretched-link.css"
+    },
+    {
+      "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\css\\login form\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\login form\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\css\\login form\\bootstrap\\_media.css",
+      "PackagePath": "staticwebassets\\css\\login form\\bootstrap\\_media.css"
+    },
+    {
+      "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\css\\login form\\bootstrap\\mixins\\_border-radius.css",
+      "PackagePath": "staticwebassets\\css\\login form\\bootstrap\\mixins\\_border-radius.css"
+    },
+    {
+      "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\css\\login form\\bootstrap\\mixins\\_screen-reader.css",
+      "PackagePath": "staticwebassets\\css\\login form\\bootstrap\\mixins\\_screen-reader.css"
+    },
+    {
+      "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\css\\login form\\bootstrap\\mixins\\_transition.css",
+      "PackagePath": "staticwebassets\\css\\login form\\bootstrap\\mixins\\_transition.css"
+    },
+    {
+      "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\css\\login form\\bootstrap\\mixins\\_visibility.css",
+      "PackagePath": "staticwebassets\\css\\login form\\bootstrap\\mixins\\_visibility.css"
+    },
+    {
+      "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\css\\login form\\bootstrap\\utilities\\_stretched-link.css",
+      "PackagePath": "staticwebassets\\css\\login form\\bootstrap\\utilities\\_stretched-link.css"
+    },
+    {
+      "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\css\\login form\\style.css",
+      "PackagePath": "staticwebassets\\css\\login form\\style.css"
+    },
+    {
       "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\css\\style.css",
       "PackagePath": "staticwebassets\\css\\style.css"
     },
@@ -31,6 +87,10 @@
     {
       "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\img\\feature.jpg",
       "PackagePath": "staticwebassets\\img\\feature.jpg"
+    },
+    {
+      "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\img\\loginForm.jpg",
+      "PackagePath": "staticwebassets\\img\\loginForm.jpg"
     },
     {
       "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\img\\map.png",
@@ -91,6 +151,22 @@
     {
       "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\img\\testimonial-4.jpg",
       "PackagePath": "staticwebassets\\img\\testimonial-4.jpg"
+    },
+    {
+      "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\js\\login form\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\login form\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\js\\login form\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\login form\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\js\\login form\\main.js",
+      "PackagePath": "staticwebassets\\js\\login form\\main.js"
+    },
+    {
+      "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\js\\login form\\popper.js",
+      "PackagePath": "staticwebassets\\js\\login form\\popper.js"
     },
     {
       "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\js\\main.js",
@@ -503,6 +579,366 @@
     {
       "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
       "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\scss\\login form\\bootstrap\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\login form\\bootstrap\\_alert.scss"
+    },
+    {
+      "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\scss\\login form\\bootstrap\\_badge.scss",
+      "PackagePath": "staticwebassets\\scss\\login form\\bootstrap\\_badge.scss"
+    },
+    {
+      "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\scss\\login form\\bootstrap\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\scss\\login form\\bootstrap\\_breadcrumb.scss"
+    },
+    {
+      "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\scss\\login form\\bootstrap\\_button-group.scss",
+      "PackagePath": "staticwebassets\\scss\\login form\\bootstrap\\_button-group.scss"
+    },
+    {
+      "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\scss\\login form\\bootstrap\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\login form\\bootstrap\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\scss\\login form\\bootstrap\\_card.scss",
+      "PackagePath": "staticwebassets\\scss\\login form\\bootstrap\\_card.scss"
+    },
+    {
+      "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\scss\\login form\\bootstrap\\_carousel.scss",
+      "PackagePath": "staticwebassets\\scss\\login form\\bootstrap\\_carousel.scss"
+    },
+    {
+      "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\scss\\login form\\bootstrap\\_close.scss",
+      "PackagePath": "staticwebassets\\scss\\login form\\bootstrap\\_close.scss"
+    },
+    {
+      "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\scss\\login form\\bootstrap\\_code.scss",
+      "PackagePath": "staticwebassets\\scss\\login form\\bootstrap\\_code.scss"
+    },
+    {
+      "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\scss\\login form\\bootstrap\\_custom-forms.scss",
+      "PackagePath": "staticwebassets\\scss\\login form\\bootstrap\\_custom-forms.scss"
+    },
+    {
+      "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\scss\\login form\\bootstrap\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\scss\\login form\\bootstrap\\_dropdown.scss"
+    },
+    {
+      "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\scss\\login form\\bootstrap\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\login form\\bootstrap\\_forms.scss"
+    },
+    {
+      "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\scss\\login form\\bootstrap\\_functions.scss",
+      "PackagePath": "staticwebassets\\scss\\login form\\bootstrap\\_functions.scss"
+    },
+    {
+      "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\scss\\login form\\bootstrap\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\login form\\bootstrap\\_grid.scss"
+    },
+    {
+      "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\scss\\login form\\bootstrap\\_images.scss",
+      "PackagePath": "staticwebassets\\scss\\login form\\bootstrap\\_images.scss"
+    },
+    {
+      "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\scss\\login form\\bootstrap\\_input-group.scss",
+      "PackagePath": "staticwebassets\\scss\\login form\\bootstrap\\_input-group.scss"
+    },
+    {
+      "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\scss\\login form\\bootstrap\\_jumbotron.scss",
+      "PackagePath": "staticwebassets\\scss\\login form\\bootstrap\\_jumbotron.scss"
+    },
+    {
+      "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\scss\\login form\\bootstrap\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\login form\\bootstrap\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\scss\\login form\\bootstrap\\_media.scss",
+      "PackagePath": "staticwebassets\\scss\\login form\\bootstrap\\_media.scss"
+    },
+    {
+      "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\scss\\login form\\bootstrap\\_mixins.scss",
+      "PackagePath": "staticwebassets\\scss\\login form\\bootstrap\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\scss\\login form\\bootstrap\\_modal.scss",
+      "PackagePath": "staticwebassets\\scss\\login form\\bootstrap\\_modal.scss"
+    },
+    {
+      "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\scss\\login form\\bootstrap\\_nav.scss",
+      "PackagePath": "staticwebassets\\scss\\login form\\bootstrap\\_nav.scss"
+    },
+    {
+      "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\scss\\login form\\bootstrap\\_navbar.scss",
+      "PackagePath": "staticwebassets\\scss\\login form\\bootstrap\\_navbar.scss"
+    },
+    {
+      "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\scss\\login form\\bootstrap\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\login form\\bootstrap\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\scss\\login form\\bootstrap\\_popover.scss",
+      "PackagePath": "staticwebassets\\scss\\login form\\bootstrap\\_popover.scss"
+    },
+    {
+      "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\scss\\login form\\bootstrap\\_print.scss",
+      "PackagePath": "staticwebassets\\scss\\login form\\bootstrap\\_print.scss"
+    },
+    {
+      "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\scss\\login form\\bootstrap\\_progress.scss",
+      "PackagePath": "staticwebassets\\scss\\login form\\bootstrap\\_progress.scss"
+    },
+    {
+      "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\scss\\login form\\bootstrap\\_reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\login form\\bootstrap\\_reboot.scss"
+    },
+    {
+      "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\scss\\login form\\bootstrap\\_root.scss",
+      "PackagePath": "staticwebassets\\scss\\login form\\bootstrap\\_root.scss"
+    },
+    {
+      "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\scss\\login form\\bootstrap\\_spinners.scss",
+      "PackagePath": "staticwebassets\\scss\\login form\\bootstrap\\_spinners.scss"
+    },
+    {
+      "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\scss\\login form\\bootstrap\\_tables.scss",
+      "PackagePath": "staticwebassets\\scss\\login form\\bootstrap\\_tables.scss"
+    },
+    {
+      "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\scss\\login form\\bootstrap\\_toasts.scss",
+      "PackagePath": "staticwebassets\\scss\\login form\\bootstrap\\_toasts.scss"
+    },
+    {
+      "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\scss\\login form\\bootstrap\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\scss\\login form\\bootstrap\\_tooltip.scss"
+    },
+    {
+      "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\scss\\login form\\bootstrap\\_transitions.scss",
+      "PackagePath": "staticwebassets\\scss\\login form\\bootstrap\\_transitions.scss"
+    },
+    {
+      "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\scss\\login form\\bootstrap\\_type.scss",
+      "PackagePath": "staticwebassets\\scss\\login form\\bootstrap\\_type.scss"
+    },
+    {
+      "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\scss\\login form\\bootstrap\\_utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\login form\\bootstrap\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\scss\\login form\\bootstrap\\_variables.scss",
+      "PackagePath": "staticwebassets\\scss\\login form\\bootstrap\\_variables.scss"
+    },
+    {
+      "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\scss\\login form\\bootstrap\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\scss\\login form\\bootstrap\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\scss\\login form\\bootstrap\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\login form\\bootstrap\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\scss\\login form\\bootstrap\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\scss\\login form\\bootstrap\\bootstrap.scss"
+    },
+    {
+      "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\scss\\login form\\bootstrap\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\login form\\bootstrap\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\scss\\login form\\bootstrap\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\scss\\login form\\bootstrap\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\scss\\login form\\bootstrap\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\scss\\login form\\bootstrap\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\scss\\login form\\bootstrap\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\scss\\login form\\bootstrap\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\scss\\login form\\bootstrap\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\scss\\login form\\bootstrap\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\scss\\login form\\bootstrap\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\scss\\login form\\bootstrap\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\scss\\login form\\bootstrap\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\login form\\bootstrap\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\scss\\login form\\bootstrap\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\scss\\login form\\bootstrap\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\scss\\login form\\bootstrap\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\login form\\bootstrap\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\scss\\login form\\bootstrap\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\scss\\login form\\bootstrap\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\scss\\login form\\bootstrap\\mixins\\_float.scss",
+      "PackagePath": "staticwebassets\\scss\\login form\\bootstrap\\mixins\\_float.scss"
+    },
+    {
+      "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\scss\\login form\\bootstrap\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\login form\\bootstrap\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\scss\\login form\\bootstrap\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\scss\\login form\\bootstrap\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\scss\\login form\\bootstrap\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\scss\\login form\\bootstrap\\mixins\\_grid-framework.scss"
+    },
+    {
+      "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\scss\\login form\\bootstrap\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\login form\\bootstrap\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\scss\\login form\\bootstrap\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\scss\\login form\\bootstrap\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\scss\\login form\\bootstrap\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\scss\\login form\\bootstrap\\mixins\\_image.scss"
+    },
+    {
+      "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\scss\\login form\\bootstrap\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\login form\\bootstrap\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\scss\\login form\\bootstrap\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\scss\\login form\\bootstrap\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\scss\\login form\\bootstrap\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\scss\\login form\\bootstrap\\mixins\\_nav-divider.scss"
+    },
+    {
+      "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\scss\\login form\\bootstrap\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\login form\\bootstrap\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\scss\\login form\\bootstrap\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\scss\\login form\\bootstrap\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\scss\\login form\\bootstrap\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\scss\\login form\\bootstrap\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\scss\\login form\\bootstrap\\mixins\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\scss\\login form\\bootstrap\\mixins\\_screen-reader.scss"
+    },
+    {
+      "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\scss\\login form\\bootstrap\\mixins\\_size.scss",
+      "PackagePath": "staticwebassets\\scss\\login form\\bootstrap\\mixins\\_size.scss"
+    },
+    {
+      "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\scss\\login form\\bootstrap\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\scss\\login form\\bootstrap\\mixins\\_table-row.scss"
+    },
+    {
+      "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\scss\\login form\\bootstrap\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\scss\\login form\\bootstrap\\mixins\\_text-emphasis.scss"
+    },
+    {
+      "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\scss\\login form\\bootstrap\\mixins\\_text-hide.scss",
+      "PackagePath": "staticwebassets\\scss\\login form\\bootstrap\\mixins\\_text-hide.scss"
+    },
+    {
+      "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\scss\\login form\\bootstrap\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\scss\\login form\\bootstrap\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\scss\\login form\\bootstrap\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\scss\\login form\\bootstrap\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\scss\\login form\\bootstrap\\mixins\\_visibility.scss",
+      "PackagePath": "staticwebassets\\scss\\login form\\bootstrap\\mixins\\_visibility.scss"
+    },
+    {
+      "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\scss\\login form\\bootstrap\\utilities\\_align.scss",
+      "PackagePath": "staticwebassets\\scss\\login form\\bootstrap\\utilities\\_align.scss"
+    },
+    {
+      "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\scss\\login form\\bootstrap\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\scss\\login form\\bootstrap\\utilities\\_background.scss"
+    },
+    {
+      "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\scss\\login form\\bootstrap\\utilities\\_borders.scss",
+      "PackagePath": "staticwebassets\\scss\\login form\\bootstrap\\utilities\\_borders.scss"
+    },
+    {
+      "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\scss\\login form\\bootstrap\\utilities\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\login form\\bootstrap\\utilities\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\scss\\login form\\bootstrap\\utilities\\_display.scss",
+      "PackagePath": "staticwebassets\\scss\\login form\\bootstrap\\utilities\\_display.scss"
+    },
+    {
+      "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\scss\\login form\\bootstrap\\utilities\\_embed.scss",
+      "PackagePath": "staticwebassets\\scss\\login form\\bootstrap\\utilities\\_embed.scss"
+    },
+    {
+      "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\scss\\login form\\bootstrap\\utilities\\_flex.scss",
+      "PackagePath": "staticwebassets\\scss\\login form\\bootstrap\\utilities\\_flex.scss"
+    },
+    {
+      "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\scss\\login form\\bootstrap\\utilities\\_float.scss",
+      "PackagePath": "staticwebassets\\scss\\login form\\bootstrap\\utilities\\_float.scss"
+    },
+    {
+      "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\scss\\login form\\bootstrap\\utilities\\_overflow.scss",
+      "PackagePath": "staticwebassets\\scss\\login form\\bootstrap\\utilities\\_overflow.scss"
+    },
+    {
+      "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\scss\\login form\\bootstrap\\utilities\\_position.scss",
+      "PackagePath": "staticwebassets\\scss\\login form\\bootstrap\\utilities\\_position.scss"
+    },
+    {
+      "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\scss\\login form\\bootstrap\\utilities\\_screenreaders.scss",
+      "PackagePath": "staticwebassets\\scss\\login form\\bootstrap\\utilities\\_screenreaders.scss"
+    },
+    {
+      "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\scss\\login form\\bootstrap\\utilities\\_shadows.scss",
+      "PackagePath": "staticwebassets\\scss\\login form\\bootstrap\\utilities\\_shadows.scss"
+    },
+    {
+      "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\scss\\login form\\bootstrap\\utilities\\_sizing.scss",
+      "PackagePath": "staticwebassets\\scss\\login form\\bootstrap\\utilities\\_sizing.scss"
+    },
+    {
+      "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\scss\\login form\\bootstrap\\utilities\\_spacing.scss",
+      "PackagePath": "staticwebassets\\scss\\login form\\bootstrap\\utilities\\_spacing.scss"
+    },
+    {
+      "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\scss\\login form\\bootstrap\\utilities\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\scss\\login form\\bootstrap\\utilities\\_stretched-link.scss"
+    },
+    {
+      "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\scss\\login form\\bootstrap\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\scss\\login form\\bootstrap\\utilities\\_text.scss"
+    },
+    {
+      "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\scss\\login form\\bootstrap\\utilities\\_visibility.scss",
+      "PackagePath": "staticwebassets\\scss\\login form\\bootstrap\\utilities\\_visibility.scss"
+    },
+    {
+      "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\scss\\login form\\bootstrap\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\scss\\login form\\bootstrap\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\wwwroot\\scss\\login form\\style.scss",
+      "PackagePath": "staticwebassets\\scss\\login form\\style.scss"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Delivery logistics system.Microsoft.AspNetCore.StaticWebAssets.props",
