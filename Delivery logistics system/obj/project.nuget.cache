@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QZl1CCxepJ5AZFa5jI7Q9MSo4NV6OcASQQkDqADNzFXrtrkb9Msc2eIJ9lbXGzuudR4aslEvH1Zx5PL8su0HtA==",
+  "dgSpecHash": "VssC1uEGm5wYxIqSKlR3f2zy/YZgf2zFI5lMLDNUeLE/eglgEhRheNk0giqLMOiexSkm6QHH78zuv+qYlMpzlg==",
   "success": true,
-  "projectFilePath": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery logistics system\\Delivery logistics system\\Delivery logistics system.csproj",
+  "projectFilePath": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery-logistics-system\\Delivery logistics system\\Delivery logistics system.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dell\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.2\\microsoft.netcore.app.host.win-x64.8.0.2.nupkg.sha512"
   ],
