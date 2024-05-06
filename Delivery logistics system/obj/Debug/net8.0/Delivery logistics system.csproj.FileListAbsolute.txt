@@ -60,3 +60,5 @@ D:\Files\Signed in backup\Zweil city\Courses\2nd year - semester 2\CIE 206 - Dat
 D:\Files\Signed in backup\Zweil city\Courses\2nd year - semester 2\CIE 206 - DataBase\project\Delivery-logistics-system\Delivery logistics system\obj\Debug\net8.0\Delivery logistics system.pdb
 D:\Files\Signed in backup\Zweil city\Courses\2nd year - semester 2\CIE 206 - DataBase\project\Delivery-logistics-system\Delivery logistics system\obj\Debug\net8.0\Delivery logistics system.genruntimeconfig.cache
 D:\Files\Signed in backup\Zweil city\Courses\2nd year - semester 2\CIE 206 - DataBase\project\Delivery-logistics-system\Delivery logistics system\obj\Debug\net8.0\ref\Delivery logistics system.dll
+D:\Files\Signed in backup\Zweil city\Courses\2nd year - semester 2\CIE 206 - DataBase\project\Delivery-logistics-system\Delivery logistics system\bin\Debug\net8.0\package-lock.json
+D:\Files\Signed in backup\Zweil city\Courses\2nd year - semester 2\CIE 206 - DataBase\project\Delivery-logistics-system\Delivery logistics system\bin\Debug\net8.0\package.json
