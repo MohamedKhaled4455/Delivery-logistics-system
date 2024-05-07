@@ -477,62 +477,39 @@
 
 
 /*Admin home page cards*/
-.card-counter {
-    box-shadow: 2px 2px 10px #DADADA;
-    margin: 5px;
-    padding: 20px 10px;
-    background-color: #fff;
-    height: 100px;
-    border-radius: 5px;
-    transition: .3s linear all;
+/* Style for the page title */
+/* Style for the page title */
+.page-title {
+    margin-top: 20px;
+    margin-bottom: 40px;
+    text-align: center;
+    color: #007bff; /* Bootstrap primary color */
 }
 
-    .card-counter:hover {
-        box-shadow: 4px 4px 20px #DADADA;
-        transition: .3s linear all;
+
+/* General styles for info cards */
+.info-card {
+    background-color: #f8f9fa; /* Light gray background */
+    border: 1px solid #dee2e6; /* Light gray border */
+    border-radius: 0.25rem; /* Rounded corners */
+    padding: 20px; /* Padding inside the cards */
+    margin-bottom: 10px; /* Bottom margin for the cards */
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1); /* Subtle shadow for depth */
+    transition: transform 0.3s; /* Smooth transform on hover */
+    height: 100%; /* Make all cards of equal height */
+}
+
+    .info-card h2 {
+        color: #343a40; /* Dark gray text for headings */
+        margin-bottom: 5px; /* Small bottom margin for the heading */
     }
 
-    .card-counter.primary {
-        background-color: #007bff;
-        color: #FFF;
+    .info-card p {
+        color: #6c757d; /* Bootstrap secondary text color */
     }
 
-    .card-counter.danger {
-        background-color: #ef5350;
-        color: #FFF;
+    /* Hover effect for info cards */
+    .info-card:hover {
+        transform: scale(1.03); /* Slightly scale up on hover */
+        cursor: pointer; /* Change cursor on hover */
     }
-
-    .card-counter.success {
-        background-color: #66bb6a;
-        color: #FFF;
-    }
-
-    .card-counter.info {
-        background-color: #26c6da;
-        color: #FFF;
-    }
-
-    .card-counter i {
-        font-size: 5em;
-        opacity: 0.2;
-    }
-
-    .card-counter .count-numbers {
-        position: absolute;
-        right: 35px;
-        top: 20px;
-        font-size: 32px;
-        display: block;
-    }
-
-    .card-counter .count-name {
-        position: absolute;
-        right: 35px;
-        top: 65px;
-        font-style: italic;
-        text-transform: capitalize;
-        opacity: 0.5;
-        display: block;
-        font-size: 18px;
-    }
-
