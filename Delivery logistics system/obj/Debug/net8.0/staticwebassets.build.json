@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "51uwW2ugFcvhYJ33OEty5HNsTg4xKyvdllXil88i2ps=",
+  "Hash": "3V2s7IEimDFtLNSq3WKfQvI8+eG2+q7E+3Teh7C3IUI=",
   "Source": "Delivery logistics system",
   "BasePath": "_content/Delivery logistics system",
   "Mode": "Default",
@@ -186,6 +186,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\AdminOrdersTable\\style.css"
+    },
+    {
+      "Identity": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery-logistics-system\\Delivery logistics system\\wwwroot\\css\\AdminProfile.css",
+      "SourceId": "Delivery logistics system",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery-logistics-system\\Delivery logistics system\\wwwroot\\",
+      "BasePath": "_content/Delivery logistics system",
+      "RelativePath": "css/AdminProfile.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\AdminProfile.css"
     },
     {
       "Identity": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery-logistics-system\\Delivery logistics system\\wwwroot\\css\\bootstrap.min.css",

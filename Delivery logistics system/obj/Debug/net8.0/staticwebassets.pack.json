@@ -33,6 +33,10 @@
       "PackagePath": "staticwebassets\\css\\AdminOrdersTable\\style.css"
     },
     {
+      "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery-logistics-system\\Delivery logistics system\\wwwroot\\css\\AdminProfile.css",
+      "PackagePath": "staticwebassets\\css\\AdminProfile.css"
+    },
+    {
       "Id": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery-logistics-system\\Delivery logistics system\\wwwroot\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
     },
