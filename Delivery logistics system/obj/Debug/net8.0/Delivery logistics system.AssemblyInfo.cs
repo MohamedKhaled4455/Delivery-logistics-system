@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Delivery logistics system")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b48a2e54e0ac98d31d30ddac8fb03f9ceafb186b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1d9bb4355b5be15cef50bee169c3f6732f1e5af8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Delivery logistics system")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Delivery logistics system")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
