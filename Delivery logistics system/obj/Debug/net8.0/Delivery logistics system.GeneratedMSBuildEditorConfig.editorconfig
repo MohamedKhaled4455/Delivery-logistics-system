@@ -9,79 +9,111 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Delivery_logistics_system
 build_property.RootNamespace = Delivery_logistics_system
-build_property.ProjectDir = D:\Files\Signed in backup\Zweil city\Courses\2nd year - semester 2\CIE 206 - DataBase\project\Delivery-logistics-system\Delivery logistics system\
+build_property.ProjectDir = D:\C partition\Downloads\Delivery-logistics-system-main\Delivery-logistics-system-main\Delivery logistics system\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Files\Signed in backup\Zweil city\Courses\2nd year - semester 2\CIE 206 - DataBase\project\Delivery-logistics-system\Delivery logistics system
+build_property.MSBuildProjectDirectory = D:\C partition\Downloads\Delivery-logistics-system-main\Delivery-logistics-system-main\Delivery logistics system
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Files/Signed in backup/Zweil city/Courses/2nd year - semester 2/CIE 206 - DataBase/project/Delivery-logistics-system/Delivery logistics system/Pages/AdminMainInterface.cshtml]
+[D:/C partition/Downloads/Delivery-logistics-system-main/Delivery-logistics-system-main/Delivery logistics system/Pages/Admincontact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5jb250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C partition/Downloads/Delivery-logistics-system-main/Delivery-logistics-system-main/Delivery logistics system/Pages/Admincustomers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5jdXN0b21lcnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C partition/Downloads/Delivery-logistics-system-main/Delivery-logistics-system-main/Delivery logistics system/Pages/Admindrivers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5kcml2ZXJzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C partition/Downloads/Delivery-logistics-system-main/Delivery-logistics-system-main/Delivery logistics system/Pages/AdminMainInterface.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5NYWluSW50ZXJmYWNlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Files/Signed in backup/Zweil city/Courses/2nd year - semester 2/CIE 206 - DataBase/project/Delivery-logistics-system/Delivery logistics system/Pages/CustomerMainInterface.cshtml]
+[D:/C partition/Downloads/Delivery-logistics-system-main/Delivery-logistics-system-main/Delivery logistics system/Pages/Adminmembers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5tZW1iZXJzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C partition/Downloads/Delivery-logistics-system-main/Delivery-logistics-system-main/Delivery logistics system/Pages/Adminorders.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5vcmRlcnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C partition/Downloads/Delivery-logistics-system-main/Delivery-logistics-system-main/Delivery logistics system/Pages/Adminprofile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5wcm9maWxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C partition/Downloads/Delivery-logistics-system-main/Delivery-logistics-system-main/Delivery logistics system/Pages/Adminshipments.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5zaGlwbWVudHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C partition/Downloads/Delivery-logistics-system-main/Delivery-logistics-system-main/Delivery logistics system/Pages/Adminvehicles.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW52ZWhpY2xlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C partition/Downloads/Delivery-logistics-system-main/Delivery-logistics-system-main/Delivery logistics system/Pages/CustomerMainInterface.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VzdG9tZXJNYWluSW50ZXJmYWNlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Files/Signed in backup/Zweil city/Courses/2nd year - semester 2/CIE 206 - DataBase/project/Delivery-logistics-system/Delivery logistics system/Pages/DriverMainInterface.cshtml]
+[D:/C partition/Downloads/Delivery-logistics-system-main/Delivery-logistics-system-main/Delivery logistics system/Pages/DriverMainInterface.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRHJpdmVyTWFpbkludGVyZmFjZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Files/Signed in backup/Zweil city/Courses/2nd year - semester 2/CIE 206 - DataBase/project/Delivery-logistics-system/Delivery logistics system/Pages/Error.cshtml]
+[D:/C partition/Downloads/Delivery-logistics-system-main/Delivery-logistics-system-main/Delivery logistics system/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Files/Signed in backup/Zweil city/Courses/2nd year - semester 2/CIE 206 - DataBase/project/Delivery-logistics-system/Delivery logistics system/Pages/Index.cshtml]
+[D:/C partition/Downloads/Delivery-logistics-system-main/Delivery-logistics-system-main/Delivery logistics system/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Files/Signed in backup/Zweil city/Courses/2nd year - semester 2/CIE 206 - DataBase/project/Delivery-logistics-system/Delivery logistics system/Pages/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+[D:/C partition/Downloads/Delivery-logistics-system-main/Delivery-logistics-system-main/Delivery logistics system/Pages/NoLayout/login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTm9MYXlvdXRcbG9naW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Files/Signed in backup/Zweil city/Courses/2nd year - semester 2/CIE 206 - DataBase/project/Delivery-logistics-system/Delivery logistics system/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[D:/C partition/Downloads/Delivery-logistics-system-main/Delivery-logistics-system-main/Delivery logistics system/Pages/NoLayout/signup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTm9MYXlvdXRcc2lnbnVwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C partition/Downloads/Delivery-logistics-system-main/Delivery-logistics-system-main/Delivery logistics system/Pages/Shared/AdminLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXEFkbWluTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C partition/Downloads/Delivery-logistics-system-main/Delivery-logistics-system-main/Delivery logistics system/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Files/Signed in backup/Zweil city/Courses/2nd year - semester 2/CIE 206 - DataBase/project/Delivery-logistics-system/Delivery logistics system/Pages/Visitor/about.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmlzaXRvclxhYm91dC5jc2h0bWw=
+[D:/C partition/Downloads/Delivery-logistics-system-main/Delivery-logistics-system-main/Delivery logistics system/Pages/visitorabout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcdmlzaXRvcmFib3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Files/Signed in backup/Zweil city/Courses/2nd year - semester 2/CIE 206 - DataBase/project/Delivery-logistics-system/Delivery logistics system/Pages/Visitor/admin.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmlzaXRvclxhZG1pbi5jc2h0bWw=
+[D:/C partition/Downloads/Delivery-logistics-system-main/Delivery-logistics-system-main/Delivery logistics system/Pages/visitoradmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcdmlzaXRvcmFkbWluLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Files/Signed in backup/Zweil city/Courses/2nd year - semester 2/CIE 206 - DataBase/project/Delivery-logistics-system/Delivery logistics system/Pages/Visitor/contact.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmlzaXRvclxjb250YWN0LmNzaHRtbA==
+[D:/C partition/Downloads/Delivery-logistics-system-main/Delivery-logistics-system-main/Delivery logistics system/Pages/visitorcontact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcdmlzaXRvcmNvbnRhY3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Files/Signed in backup/Zweil city/Courses/2nd year - semester 2/CIE 206 - DataBase/project/Delivery-logistics-system/Delivery logistics system/Pages/Visitor/driver.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmlzaXRvclxkcml2ZXIuY3NodG1s
+[D:/C partition/Downloads/Delivery-logistics-system-main/Delivery-logistics-system-main/Delivery logistics system/Pages/visitordriver.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcdmlzaXRvcmRyaXZlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Files/Signed in backup/Zweil city/Courses/2nd year - semester 2/CIE 206 - DataBase/project/Delivery-logistics-system/Delivery logistics system/Pages/Visitor/login.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmlzaXRvclxsb2dpbi5jc2h0bWw=
+[D:/C partition/Downloads/Delivery-logistics-system-main/Delivery-logistics-system-main/Delivery logistics system/Pages/visitorservices.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcdmlzaXRvcnNlcnZpY2VzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Files/Signed in backup/Zweil city/Courses/2nd year - semester 2/CIE 206 - DataBase/project/Delivery-logistics-system/Delivery logistics system/Pages/Visitor/service.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmlzaXRvclxzZXJ2aWNlLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Files/Signed in backup/Zweil city/Courses/2nd year - semester 2/CIE 206 - DataBase/project/Delivery-logistics-system/Delivery logistics system/Pages/Visitor/signup.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmlzaXRvclxzaWdudXAuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Files/Signed in backup/Zweil city/Courses/2nd year - semester 2/CIE 206 - DataBase/project/Delivery-logistics-system/Delivery logistics system/Pages/_ViewImports.cshtml]
+[D:/C partition/Downloads/Delivery-logistics-system-main/Delivery-logistics-system-main/Delivery logistics system/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Files/Signed in backup/Zweil city/Courses/2nd year - semester 2/CIE 206 - DataBase/project/Delivery-logistics-system/Delivery logistics system/Pages/_ViewStart.cshtml]
+[D:/C partition/Downloads/Delivery-logistics-system-main/Delivery-logistics-system-main/Delivery logistics system/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Files/Signed in backup/Zweil city/Courses/2nd year - semester 2/CIE 206 - DataBase/project/Delivery-logistics-system/Delivery logistics system/Pages/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = b-v5zarwxca3
+[D:/C partition/Downloads/Delivery-logistics-system-main/Delivery-logistics-system-main/Delivery logistics system/Pages/Shared/VisitorLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXFZpc2l0b3JMYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-48mjnps1e6

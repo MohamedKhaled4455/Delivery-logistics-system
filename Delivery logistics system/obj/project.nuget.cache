@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "1fGA/sjxPDJqwI6SF72f+SljRAtBxL5nRQnm3u0ax+q8+QoVLCmndt35A4y+GwC0IHMKEzIx49Cp9jJSkhzn9w==",
+  "success": true,
+  "projectFilePath": "D:\\C partition\\Downloads\\Delivery-logistics-system-main\\Delivery-logistics-system-main\\Delivery logistics system\\Delivery logistics system.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.2\\microsoft.windowsdesktop.app.ref.8.0.2.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.2\\microsoft.netcore.app.ref.8.0.2.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.2\\microsoft.aspnetcore.app.ref.8.0.2.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.2\\microsoft.netcore.app.host.win-x64.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
