@@ -478,7 +478,7 @@
 
 /*Admin home page cards*/
 
-/* Style for the page title */
+/* General styles for info cards */
 .page-title {
     margin-top: 20px;
     margin-bottom: 40px;
@@ -486,30 +486,28 @@
     color: #007bff; /* Bootstrap primary color */
 }
 
-
-/* General styles for info cards */
 .info-card {
-    background-color: #f8f9fa; /* Light gray background */
-    border: 1px solid #dee2e6; /* Light gray border */
-    border-radius: 0.25rem; /* Rounded corners */
-    padding: 20px; /* Padding inside the cards */
-    margin-bottom: 10px; /* Bottom margin for the cards */
-    box-shadow: 0 2px 5px rgba(0,0,0,0.1); /* Subtle shadow for depth */
-    transition: transform 0.3s; /* Smooth transform on hover */
-    height: 100%; /* Make all cards of equal height */
+    background-color: #f8f9fa;
+    border: 1px solid #dee2e6;
+    border-radius: 0.25rem;
+    padding: 20px;
+    margin-bottom: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s;
+    height: 100%;
 }
 
     .info-card h2 {
-        color: #343a40; /* Dark gray text for headings */
-        margin-bottom: 5px; /* Small bottom margin for the heading */
+        color: #343a40;
+        margin-bottom: 5px;
     }
 
     .info-card p {
-        color: #6c757d; /* Bootstrap secondary text color */
+        color: #6c757d;
     }
 
     /* Hover effect for info cards */
     .info-card:hover {
-        transform: scale(1.03); /* Slightly scale up on hover */
-        cursor: pointer; /* Change cursor on hover */
+        transform: scale(1.03);
+        cursor: pointer;
     }

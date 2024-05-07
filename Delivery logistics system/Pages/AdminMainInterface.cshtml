@@ -21,15 +21,15 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarCollapse">
             <div class="navbar-nav ms-auto p-4 p-lg-0">
-                <a href="AdminMainInterface.cshtml" class="nav-item nav-link active">Home</a>
-                <a href="/Admin/orders" class="nav-item nav-link">Orders</a>
-                <a href="/Admin/shipments" class="nav-item nav-link">Shipments</a>
-                <a href="/Admin/customers" class="nav-item nav-link">Customers</a>
-                <a href="/Admin/drivers" class="nav-item nav-link">Drivers</a>
-                <a href="/Admin/vehicles " class="nav-item nav-link">Vehicles </a>
-                <a href="/Admin/members" class="nav-item nav-link">Members</a>
-                <a href="/Admin/profile" class="nav-item nav-link">Profile</a>
-                <a href="/Admin/contact" class="nav-item nav-link">Contact</a>
+                <a asp-page="AdminMainInterface.cshtml" class="nav-item nav-link active">Home</a>
+                <a asp-page="/Admin/orders" class="nav-item nav-link">Orders</a>
+                <a asp-page="/Admin/shipments" class="nav-item nav-link">Shipments</a>
+                <a asp-page="/Admin/customers" class="nav-item nav-link">Customers</a>
+                <a asp-page="/Admin/drivers" class="nav-item nav-link">Drivers</a>
+                <a asp-page="/Admin/vehicles " class="nav-item nav-link">Vehicles </a>
+                <a asp-page="/Admin/members" class="nav-item nav-link">Members</a>
+                <a asp-page="/Admin/profile" class="nav-item nav-link">Profile</a>
+                <a asp-page="/Admin/contact" class="nav-item nav-link">Contact</a>
 
                 <a asp-page="/index" class="nav-item nav-link btn btn-danger text-white px-1 py-4 fw-bold">Logout</a>
 
@@ -39,77 +39,74 @@
     </nav>
     <!-- Navbar End -->
     <!-- Carousel Start -->
-    <section> <!--orders section-->
+    <section>
+        <!-- Orders section -->
         <div class="container">
-            <h1 class="page-title">
-                Orders
-            </h1>
+            <h2 class="page-title">Orders</h2>
             <div class="row">
                 <div class="col-md-4">
                     <div class="info-card">
-                        <h2>New</h2>
+                        <h3>New</h3>
                         <p>New Orders: 10</p>
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="info-card">
-                        <h2>In Progress</h2>
+                        <h3>In Progress</h3>
                         <p>In Progress Orders: 5</p>
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="info-card">
-                        <h2>Completed</h2>
-                        <p>Completed Orders:20</p>
+                        <h3>Completed</h3>
+                        <p>Completed Orders: 20</p>
                     </div>
                 </div>
             </div>
         </div>
     </section>
+
     <section>
-        <!--members section-->
+        <!-- Members section -->
         <div class="container">
-            <h1 class="page-title">
-                Members
-            </h1>
+            <h2 class="page-title">Members</h2>
             <div class="row">
                 <div class="col-md-4">
                     <div class="info-card">
-                        <h2>Active Drivers</h2>
+                        <h3>Active Drivers</h3>
                         <p>Counter: 3</p>
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="info-card">
-                        <h2>Inactive Drivers</h2>
+                        <h3>Inactive Drivers</h3>
                         <p>Counter: 2</p>
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="info-card">
-                        <h2>Managers</h2>
+                        <h3>Managers</h3>
                         <p>Counter: 3</p>
                     </div>
                 </div>
             </div>
         </div>
     </section>
+
     <section>
-        <!--Resources section-->
+        <!-- Resources section -->
         <div class="container">
-            <h1 class="page-title">
-                Resources
-            </h1>
+            <h2 class="page-title">Resources</h2>
             <div class="row justify-content-center">
                 <div class="col-md-4">
                     <div class="info-card">
-                        <h2>Vehicles</h2>
-                        <p>Number Of Vehicles : 5</p>
+                        <h3>Vehicles</h3>
+                        <p>Number Of Vehicles: 5</p>
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="info-card">
-                        <h2>Warehouses</h2>
+                        <h3>Warehouses</h3>
                         <p>Counter: 2</p>
                     </div>
                 </div>
