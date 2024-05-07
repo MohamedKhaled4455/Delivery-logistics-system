@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "TFG7YhEpsD2yajZrxuiTvzlzl4eFeJtNgxMhAb+GMwA=",
+  "Hash": "51uwW2ugFcvhYJ33OEty5HNsTg4xKyvdllXil88i2ps=",
   "Source": "Delivery logistics system",
   "BasePath": "_content/Delivery logistics system",
   "Mode": "Default",
@@ -6475,6 +6475,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\scss\\login form\\style.scss"
+    },
+    {
+      "Identity": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery-logistics-system\\Delivery logistics system\\wwwroot\\scss\\Style.css",
+      "SourceId": "Delivery logistics system",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Files\\Signed in backup\\Zweil city\\Courses\\2nd year - semester 2\\CIE 206 - DataBase\\project\\Delivery-logistics-system\\Delivery logistics system\\wwwroot\\",
+      "BasePath": "_content/Delivery logistics system",
+      "RelativePath": "scss/Style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\scss\\Style.css"
     }
   ]
 }
