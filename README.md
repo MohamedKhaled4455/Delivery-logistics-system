@@ -4,7 +4,7 @@
  - Ado.net for database connectivity with Microsoft SQL Server
    
   ***************************************
-    "To successfully run the project"
+ > To successfully run the project
     
 - Create a database using SQL queries from “SQL Queries / Creating Tables” and insert data by “SQL Queries / Filling 
  tables”
