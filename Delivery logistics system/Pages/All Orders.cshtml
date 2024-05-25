@@ -1,0 +1,39 @@
+﻿@page
+@model Delivery_logistics_system.Pages.All_OrdersModel
+@{
+    Layout = "CustomerLayout";
+
+}
+
+
+<body>
+    <div class="table-wrapper">
+        <table class="fl-table">
+            <thead>
+                <tr>
+                    <th scope="col">order ID</th>
+                    <th scope="col">shipping method</th>
+                    <th scope="col">payment method</th>
+                    <th scope="col">Date</th>
+                    <th scope="col">Status</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var O in Model.Orders)
+                {
+                    <tr>
+
+
+                        <th scope="row">@O.ID</th>
+                        <td>@O.ShipmentMethod</td>
+                        <td>@O.PaymentMethod</td>
+                        <td>@O.Date</td>
+                        <td>@O.Status</td>
+
+                    </tr>
+                }
+
+            <tbody>
+        </table>
+    </div>
+</body>

@@ -1,0 +1,117 @@
+﻿@page
+@model Delivery_logistics_system.Pages.AdminordersModel
+@{
+	Layout = "AdminLayout";
+}
+
+<body>
+	<head>
+		<title>Orders table</title>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+		<link href='https://fonts.googleapis.com/css?family=Roboto:400,100,300,700' rel='stylesheet' type='text/css'>
+
+		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+		<link rel="stylesheet" href="../wwwroot/css/AdminOrdersTable/style.css">
+
+	</head>
+
+	<section class="ftco-section">
+		<div class="container">
+			<div class="row justify-content-center">
+				<div class="col-md-6 text-center mb-5">
+					<br />
+					<h2 class="heading-section">Orders</h2>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-12">
+					<div class="table-wrap">
+						<table class="table table-striped">
+							<thead>
+								<tr>
+									<th>Order ID</th>
+									<th>Sender</th>
+									<th>Driver</th>
+									<th>Date</th>
+									<th>Shipping methode</th>
+									<th>Status</th>
+									<th>Workflow</th>
+								</tr>
+							</thead>
+							<tbody>
+								@foreach (var x in Model.Orders)
+								{
+									<tr>
+										<th scope="row">@x.Id</th>
+										<td>@x.SenderName</td>
+										<td>@x.DriverName</td>
+										<td>@x.DateTime</td>
+										<td>@x.shipmentmethode</td>
+
+										@* Conditional styling for Status *@
+										<td>
+											@if (x.Status == "Pending")
+											{
+												<a href="#" class="btn btn-danger">@x.Status</a>
+											}
+											else if (x.Status == "Processing")
+											{
+												<a href="#" class="btn btn-warning">@x.Status</a>
+											}
+											else if (x.Status == "Shipped")
+											{
+												<a href="#" class="btn btn-success">@x.Status</a>
+											}
+											else if (x.Status == "Delivered")
+											{
+												<a href="#" class="btn btn-info">@x.Status</a>
+											}
+											else
+											{
+												<a href="#" class="btn btn-secondary">@x.Status</a>
+											}
+										</td>
+
+										@* Conditional styling for Workflow *@
+										<td>
+											@if (x.Workflow == "Standard")
+											{
+												<a href="#" class="btn btn-success">@x.Workflow</a>
+											}
+											else if (x.Workflow == "In warehouse")
+											{
+												<a href="#" class="btn btn-warning">@x.Workflow</a>
+											}
+											else if (x.Workflow == "return")
+											{
+												<a href="#" class="btn btn-danger">@x.Workflow</a>
+											}
+											else
+											{
+												<a href="#" class="btn btn-secondary">@x.Workflow</a>
+											}
+										</td>
+									</tr>
+								}
+								
+
+								
+
+								
+							</tbody>
+						</table>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<script src="../wwwroot/js/AdminOrdersTable/jquery.min.js"></script>
+	<script src="../wwwroot/js/AdminOrdersTable/popper.js"></script>
+	<script src="../wwwroot/js/AdminOrdersTable/bootstrap.min.js"></script>
+	<script src="../wwwroot/js/AdminOrdersTable/main.js"></script>
+
+</body>

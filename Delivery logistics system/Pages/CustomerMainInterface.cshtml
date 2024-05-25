@@ -1,0 +1,92 @@
+﻿@page
+@model Delivery_logistics_system.Pages.Customer.MainInterfaceModel
+@{
+    Layout = "CustomerLayout";
+}
+
+<br />
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Center Button Horizontally</title>
+    <style>
+        .center-container {
+            display: flex;
+            justify-content: center;
+        }
+    </style>
+</head>
+<body>
+    <div class="center-container">
+        <a asp-page="/customermyorders" class="btn btn-secondary">Create</a>
+    </div>
+</body>
+</html>
+
+
+<br />
+<div class="table-wrapper">
+    <table class="fl-table">
+        <thead>
+            <tr>
+                <th scope="col">order ID</th>
+                <th scope="col">shipping method</th>
+                <th scope="col">payment method</th>
+                <th scope="col">Date</th>
+                <th scope="col">Status</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var order in Model.Orders)
+            {
+                <tr>
+
+
+                    <th scope="row">@order.ID</th>
+                    <td>@order.ShipmentMethod</td>
+                    <td>@order.PaymentMethod</td>
+                    <td>@order.Date</td>
+                    <td>@order.Status</td>
+
+                </tr>
+            }
+
+        <tbody>
+    </table>
+</div>
+
+</br>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Center Button Horizontally</title>
+    <style>
+        .center-container {
+            display: flex;
+            justify-content: center;
+        }
+    </style>
+</head>
+<body>
+    <div class="center-container">
+        <a asp-page="/customercontactus" class="btn btn-secondary">Contact us</a>
+    </div>
+</body>
+</html>
+
+
+<script>
+    const redirectButtons = document.querySelectorAll('.redirect-order');
+
+    redirectButtons.forEach(button => {
+        button.addEventListener('click', () => {
+            const orderId = button.dataset.orderId;
+            window.location.href = /DriverHistoryView?orderId=${orderId};
+        });
+    });
+</script>

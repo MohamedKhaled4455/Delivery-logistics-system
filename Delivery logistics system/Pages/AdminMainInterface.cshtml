@@ -1,0 +1,80 @@
+﻿@page
+@model Delivery_logistics_system.Pages.AdminMainInterfaceModel
+@{
+	Layout = "AdminLayout";
+
+}
+
+<body>
+
+    <!-- Carousel Start -->
+    <section>
+        <!-- Orders section -->
+        <div class="container">
+            <h2 class="page-title">Orders</h2>
+            <div class="row justify-content-center">
+             
+                <div class="col-md-4 ">
+                    <div class="info-card">
+                        <h3>Total Orders</h3>
+                        <p>Number of Orders: @Model.TotalOrder</p>
+                    </div>
+                </div>
+                
+            </div>
+        </div>
+    </section>
+
+    <section>
+        <!-- Members section -->
+        <div class="container">
+            <h2 class="page-title">Members</h2>
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="info-card">
+                        <h3>Active Drivers</h3>
+                        <p>Counter: @Model.ActiveDrivers</p>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="info-card">
+                        <h3>Inactive Drivers</h3>
+                        <p>Counter: @Model.UnActiveDrivers</p>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="info-card">
+                        <h3>Managers</h3>
+                        <p>Counter: @Model.MangersNum</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section>
+        <!-- Resources section -->
+        <div class="container">
+            <h2 class="page-title">Resources</h2>
+            <div class="row justify-content-center">
+                <div class="col-md-4">
+                    <div class="info-card">
+                        <h3>Vehicles</h3>
+                        <p>Number Of Vehicles: @Model.VehicleNum</p>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="info-card">
+                        <h3>Warehouses</h3>
+                        <p>Counter: @Model.WarehousesNum</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <!-- Carousel End -->
+
+
+</body> 

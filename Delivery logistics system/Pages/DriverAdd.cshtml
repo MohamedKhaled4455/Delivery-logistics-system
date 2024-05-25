@@ -1,0 +1,57 @@
+﻿@page
+@model Delivery_logistics_system.Pages.DriverAddModel
+@{
+    Layout = "DriverLayout";
+}
+
+<div class="container mt-3">
+    <h1 class="display-4 mb-4">Choose an Order to Deliver</h1>
+    <p>This table contains a list of orders in your zone, click view details to add the order</p><br />
+    <table class="table table-responsive table-hover">
+        <thead>
+            <tr>
+                <th scope="col">Order ID</th>
+                <th scope="col">Date</th>
+                <th scope="col">Requirements</th>
+                <th scope="col">Sender Zone</th>
+                <th scope="col">Receiver Zone</th>
+                <th scope="col">Warehouse ID</th>
+                <th scope="col">Details</th>
+                <th scope="col">Quick Add</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var order in Model.orders)
+            {
+                <tr>
+                    <td>@order.ID</td>
+                    <td>@order.Date.ToString("g")</td>
+                    <td>@order.Requirements</td>
+                    <td>@order.SenderZone</td>
+                    <td>@order.ReceiverZone</td>
+                    <td>@order.WarehouseID</td>
+                    <td>
+                        <button class="btn btn-primary btn-sm redirect-order" data-order-id="@order.ID">Details</button>
+                    </td>
+                    <td>
+                        <form method="post" asp-page-handler="QuickAdd" style="display: inline;">
+                            <input type="hidden" value="@order.ID" asp-for="OrderId" />
+                            <button type="submit" class="btn btn-primary btn-sm">Quick Add</button>
+                        </form>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+<script>
+    const redirectButtons = document.querySelectorAll('.redirect-order');
+
+    redirectButtons.forEach(button => {
+        button.addEventListener('click', () => {
+            const orderId = button.dataset.orderId;
+            window.location.href = `/DriverAddView?orderId=${orderId}`;
+        });
+    });
+</script>

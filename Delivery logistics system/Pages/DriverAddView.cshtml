@@ -1,0 +1,80 @@
+﻿@page
+@model Delivery_logistics_system.Pages.DriverAddViewModel
+@{
+    Layout = "DriverLayout";
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Order Details</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
+</head>
+<body>
+    <div class="container mt-3">
+        <h1>Order Details</h1>
+        <hr>
+
+        <div class="row">
+            <div class="col-md-8">
+                <!-- Order Information -->
+                <div class="card mb-3 shadow-sm">
+                    <div class="card-header">
+                        <h3>Order Information</h3>
+                    </div>
+                    <ul class="list-group list-group-flush">
+                        <li class="list-group-item">Order ID: <span id="order-id">@Model.order.ID</span></li>
+                        <li class="list-group-item">Date: <span id="order-date">@Model.order.Date.ToString("g")</span></li>
+                        <li class="list-group-item">Requirements: <span id="order-requirements">@Model.order.Requirements</span></li>
+                        <li class="list-group-item">Shipment Method: <span id="order-shipment-method">@Model.order.ShipmentMethod</span></li>
+                        <li class="list-group-item">Payment Method: <span id="order-payment-method">@Model.order.PaymentMethod</span></li>
+                        <li class="list-group-item">Warehouse ID: <span id="order-warehouse-id">@Model.order.WarehouseID</span></li>
+                        <li class="list-group-item">Status: <span id="order-status">@Model.order.Status</span></li>
+                    </ul>
+                </div>
+
+                <!-- Sender Information -->
+                <div class="card mb-3 shadow-sm">
+                    <div class="card-header">
+                        <h3>Sender Information</h3>
+                    </div>
+                    <ul class="list-group list-group-flush">
+                        <li class="list-group-item">Name: <span id="sender-name">@Model.order.SenderName</span></li>
+                        <li class="list-group-item">Phone: <span id="sender-phone">@Model.order.SenderPhone</span></li>
+                        <li class="list-group-item">Email: <span id="sender-email">@Model.order.SenderEmail</span></li>
+                        <li class="list-group-item">Address: <span id="sender-address">@Model.order.SenderAddress</span></li>
+                    </ul>
+                </div>
+
+                <!-- Receiver Information -->
+                <div class="card mb-3 shadow-sm">
+                    <div class="card-header">
+                        <h3>Receiver Information</h3>
+                    </div>
+                    <ul class="list-group list-group-flush">
+                        <li class="list-group-item">Name: <span id="receiver-name">@Model.order.ReceiverName</span></li>
+                        <li class="list-group-item">Phone: <span id="receiver-phone">@Model.order.ReceiverPhone</span></li>
+                        <li class="list-group-item">Email: <span id="receiver-email">@Model.order.ReceiverEmail</span></li>
+                        <li class="list-group-item">Address: <span id="receiver-address">@Model.order.ReceiverAddress</span></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <div class="row mt-3">
+            <div class="col">
+                <div class="d-flex justify-content-between">
+                    <a asp-page="/DriverAdd" class="btn btn-secondary">Back</a>
+                    <form method="post" asp-page-handler="AddItem" style="display: inline;">
+                        <input type="hidden" value="@Model.order.ID" asp-for="OrderId" />
+                        <button type="submit" class="btn btn-primary btn-sm">Add item</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-OERFxqOvpzGUQs+hDtO1qRytPBq7TzejXNfhT0e4vIerSqv41iD/4znOLuxP0t4" crossorigin="anonymous"></script>
+</body>
+</html>

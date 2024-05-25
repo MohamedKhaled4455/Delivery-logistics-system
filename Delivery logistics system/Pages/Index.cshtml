@@ -1,0 +1,78 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+    Layout = "VisitorLayout";
+}
+
+
+
+ <body>
+   
+
+ 
+   
+
+    <!-- Carousel Start -->
+    <div class="container-fluid p-0 pb-5">
+        <div class="owl-carousel header-carousel position-relative mb-5">
+            <div class="owl-carousel-item position-relative">
+                <img class="img-fluid" src="img/FastDelivery.jpg" alt="">
+                <div class="position-absolute top-0 start-0 w-100 h-100 d-flex align-items-center" style="background: rgba(0, 0, 0, 0.8);">
+                    <div class="container">
+                        <div class="row justify-content-start">
+                            <div class="col-10 col-lg-8">
+                                <h5 class="text-white text-uppercase mb-3 animated slideInDown">Fast Delivery Solution</h5>
+                                <h1 class="display-3 text-white animated slideInDown mb-4">Fast <span class="text-primary">Delivery</span>... Less Time</h1>
+                                <p class="fs-5 fw-medium text-white mb-4 pb-2"> We understand that time is of the essence, which is why we commit to delivering your packages swiftly and safely to their destinations.</p>
+                                <a asp-page="/NoLayout/login" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Ship Now</a>
+                                <a asp-page="visitorabout" class="btn btn-secondary py-md-3 px-md-5 animated slideInRight">About Us</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Carousel End -->
+
+
+    <!-- About Start -->
+    <div class="container-fluid overflow-hidden py-5 px-lg-0">
+        <div class="container about py-5 px-lg-0">
+            <div class="row g-5 mx-lg-0">
+                <div class="col-lg-6 ps-lg-0 wow fadeInLeft" data-wow-delay="0.1s" style="min-height: 400px;">
+                    <div class="position-relative h-100">
+                        <img class="position-absolute img-fluid w-100 h-100" src="img/about.jpg" style="object-fit: cover;" alt="">
+                    </div>
+                </div>
+                <div class="col-lg-6 about-text wow fadeInUp" data-wow-delay="0.3s">
+                    <h6 class="text-secondary text-uppercase mb-3">About Us</h6>
+                    <h1 class="mb-5">Quick Transport and Logistics Solutions</h1>
+                    <p class="mb-5">With our advanced logistics network and dedicated team, we ensure that your parcels arrive on time, every time. Trust us to handle your deliveries with utmost care and efficiency</p>
+                    <div class="row g-4 mb-5">
+                        <div class="col-sm-6 wow fadeIn" data-wow-delay="0.5s">
+                            <i class="fa fa-headphones fa-3x text-primary mb-3"></i>
+                            <h5>Customer Support</h5>
+                            <p class="m-0">Whether you have questions about your delivery or need help with your order, we are available 24/7 to ensure your satisfaction.</p>
+                        </div>
+
+                        <div class="col-sm-6 wow fadeIn" data-wow-delay="0.7s">
+                            <i class="fa fa-shipping-fast fa-3x text-primary mb-3"></i>
+                            <h5>On Time Delivery</h5>
+                            <p class="m-0"> Our efficient routing and expert logistics management mean you never have to worry about late shipments again.</p>
+                        </div>
+                    </div>
+                   
+                    <a asp-page="visitorservices" class="btn btn-primary py-3 px-5">Explore More</a> @* Link to services page *@
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- About End -->
+
+
+
+  
+   
+</body> 

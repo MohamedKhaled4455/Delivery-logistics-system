@@ -1,0 +1,55 @@
+﻿@page
+@model Delivery_logistics_system.Pages.AdminvehiclesModel
+@{
+	Layout = "AdminLayout";
+
+
+}
+
+
+<!--  Thanks to frontendmentor.io for the challenge.  -->
+
+<body>
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+        <link href="scss/Style.css" rel="stylesheet">
+
+    </head>
+    <div class="bg">
+        <h1>Vehicles</h1>
+    </div>
+    @foreach (var x in Model.Vehicles)
+    {
+       
+            <div class="row">
+                <div class="nft">
+                    <div class='main'>
+
+                        <h2>@x.Type<br /> @x.plate_no</h2> <!--Type , plate no-->
+                        <div class='tokenInfo'>
+                            <div class="price">
+                                <ins>◘</ins>
+                                <p>@x.coast LE / Km </p>
+                            </div>
+                            <div class="duration">
+                                <ins>◷</ins>
+                                <p> Year @x.year</p>
+                            </div>
+                        </div>
+                        <hr />
+                        <div class='creator'>
+                            <div class='wrapper'>
+                                <img src="https://images.unsplash.com/photo-1620121692029-d088224ddc74?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1932&q=80" alt="Creator" />
+                            </div>
+                            <p><ins>Made by</ins> @x.Model</p>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        
+    }
+</body>

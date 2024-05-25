@@ -1,0 +1,63 @@
+﻿@page
+@model profileModel
+@{
+    Layout = "CustomerLayout";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Profile</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css">
+</head>
+<body>
+    <div class="container mt-3">
+        <div class="card mb-3">
+            <div class="card-header">
+                <h5 class="card-title">Profile</h5>
+            </div>
+            <div class="card-body row">
+                <div class="col-md-4 text-center">
+                    <img src="https://www.366icons.com/media/01/profile-avatar-account-icon-16699.png" alt="Profile Picture" class="img-thumbnail  mx-auto d-block" style="width: 150px; height: 150px;">
+                </div>
+                <div class="col-md-8">
+                    <ul class="list-group list-group-flush">
+                        <li class="list-group-item">
+                            <h5 class="d-flex justify-content-between mb-0">
+                                <span class="text-muted">ID:</span>
+                                <span class="text-dark">@Model.C.ID</span>
+                            </h5>
+                        </li>
+                        <li class="list-group-item">
+                            <h5 class="d-flex justify-content-between mb-0">
+                                <span class="text-muted">Name:</span>
+                                <span class="text-dark">@Model.C.Name</span>
+                            </h5>
+                        </li>
+                        <li class="list-group-item">
+                            <h5 class="d-flex justify-content-between mb-0">
+                                <span class="text-muted">Email:</span>
+                                <span class="text-dark">@Model.C.Email</span>
+                            </h5>
+                        </li>
+                        <li class="list-group-item">
+                            <h5 class="d-flex justify-content-between mb-0">
+                                <span class="text-muted">Phone:</span>
+                                <span class="text-dark">@Model.C.Phone</span>
+                            </h5>
+                        </li>
+                        <li class="list-group-item">
+                            <h5 class="d-flex justify-content-between mb-0">
+                                <span class="text-muted">Adress:</span>
+                                <span class="text-dark">@Model.C.Address </span>
+                            </h5>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

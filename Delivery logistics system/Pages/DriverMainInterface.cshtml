@@ -1,0 +1,31 @@
+﻿@page
+@model Delivery_logistics_system.Pages.DriverMainInterfaceModel
+@{
+    Layout = "DriverLayout";
+}
+
+
+
+
+<body>
+    <div class="container-fluid p-0 pb-5">
+        <div class="owl-carousel header-carousel position-relative mb-5">
+            <div class="owl-carousel-item position-relative">
+                <img class="img-fluid" src="img/FastDelivery.jpg" alt="Delivering packages with speed and efficiency">
+                <div class="position-absolute top-0 start-0 w-100 h-100 d-flex align-items-center" style="background: rgba(0, 0, 0, 0.8);">
+                    <div class="container">
+                        <div class="row justify-content-start">
+                            <div class="col-10 col-lg-8">
+                                <h2 class="text-white text-uppercase mb-3 animated slideInDown">Hit the Road and Earn!</h2>
+                                <h1 class="display-3 text-white animated slideInDown mb-4">Deliver Your Way to Success</h1>
+                                <p class="fs-5 fw-medium text-white mb-4 pb-2">Get more deliveries, better routes, and see your earnings grow! Get started today and keep you progress.</p>
+                                <a asp-page="DriverAdd" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Take Your Order</a>
+                                <a asp-page="DriverProfile" class="btn btn-outline-light py-md-3 px-md-5 animated slideInRight">View Your Profile</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>

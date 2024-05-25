@@ -1,0 +1,85 @@
+﻿@page
+@model Delivery_logistics_system.Pages.AdmindriversModel
+@{
+	Layout = "AdminLayout";
+}
+<body>
+	<head>
+		<title>Orders table</title>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+		<link href='https://fonts.googleapis.com/css?family=Roboto:400,100,300,700' rel='stylesheet' type='text/css'>
+
+		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+		<link rel="stylesheet" href="../wwwroot/css/AdminOrdersTable/style.css">
+
+	</head>
+
+	<section class="ftco-section">
+		<div class="container">
+			<div class="row justify-content-center">
+				<div class="col-md-6 text-center mb-5">
+					<br />
+					<h2 class="heading-section">Drivers</h2>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-12">
+					<div class="table-wrap">
+						<table class="table table-striped">
+							<thead>
+								<tr>
+									<th>Driver ID</th>
+									<th>Name</th>
+									<th>Vehicle Plate No.</th>
+									<th>Shift Start</th>
+									<th>Shift End</th>
+									<th>Availability</th>
+								</tr>
+							</thead>
+							<tbody>
+								@foreach (var x in Model.Drivers)
+								{
+									<tr>
+										<th scope="row">@x.DriverId</th>
+										<td>@x.DriverName</td>
+										<td>@x.plate_no</td>
+										<td>@x.ShiftStart</td>
+										<td>@x.ShiftEnd</td>
+										@* Conditional styling for Availability *@
+										<td>
+											@if (x.Availability == "Available")
+											{
+												<a href="#" class="btn btn-success">@x.Availability</a>
+											}
+											else if (x.Availability == "Unavailable")
+											{
+												<a href="#" class="btn btn-danger">@x.Availability</a>
+											}
+											
+											else
+											{
+												<a href="#" class="btn btn-secondary">@x.Availability</a>
+											}
+										</td>
+									</tr>
+								}
+
+
+
+							</tbody>
+						</table>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<script src="../wwwroot/js/AdminOrdersTable/jquery.min.js"></script>
+	<script src="../wwwroot/js/AdminOrdersTable/popper.js"></script>
+	<script src="../wwwroot/js/AdminOrdersTable/bootstrap.min.js"></script>
+	<script src="../wwwroot/js/AdminOrdersTable/main.js"></script>
+
+</body>
