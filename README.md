@@ -1,3 +1,6 @@
+In today's fast-paced commerce landscape, efficient package delivery is crucial. Our Delivery Tracking System tracks packages from drop-off to delivery, providing real-time updates and managing billing. Drivers can choose orders to deliver and update order progress. It includes features for customer registration, order placement, delivery tracking, and comprehensive admin controls. 
+**************************************************************
+
 > This project is a full stack project developed in ASP.NET framework-razor pages. 
  - HTML, CSS, bootstrap for front-end
  - C# for back-end
